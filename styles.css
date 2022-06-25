@@ -1,3 +1,33 @@
-.heading {
-    
+.heading1 {
+    margin-top: 5px; 
+    margin-bottom: 5px;
 }
+
+.heading2 {
+    margin-top: 5px; 
+    margin-bottom: 5px;
+}
+
+.container2 {
+    width: 80%;
+}
+
+.top {
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-bottom: 2px solid black;
+}
+
+.container1 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+/*
+flex-drection: row | column
+align items: cross axis
+justify-content: main axis
+*/
