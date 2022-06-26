@@ -39,7 +39,17 @@
 .content-slice-top {
     display: flex;
     height: 20px;
+    justify-content: space-between;
 }
+
+.subject {
+    font-family: 'Mulish', sans-serif;
+}
+
+.date {
+    font-family: 'Mulish', sans-serif;
+}
+
 
 .content-slice-middle {
 
